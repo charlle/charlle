@@ -1,1 +1,30 @@
-theme: jekyll-theme-slate
+safe: false
+
+# build settings
+markdown: kramdown
+highlighter: rouge
+lsi: false
+permalink: /:title
+
+title: "Words on Life, Technology, & Startups"
+description: "In a world of hurt you need a new perspective"
+baseurl: ""
+url: "http://charlle.github.io/charlle" # replace by your site's url
+twitter_username: your-name
+github_username:  charlle # (your name)
+accent: "#F0F0F0" # accent color for blog column
+
+author: "Charleston Malkemus"
+address: "Delray Beach, Florida"
+email: "cgmalkemus@gmail.com"
+
+# google analytics tracking code, please change the value
+g_analytics: ""
+
+# language settings
+isolang: en
+
+# exclude files
+exclude:
+  - LICENSE
+  - README.md

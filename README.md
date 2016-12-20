@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# onepage
+uncomplicated single-page jekyll blog theme
 
-You can use the [editor on GitHub](https://github.com/charlle/charlle/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# [DEMO](http://himsel.me)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# use it! - 4 easy steps
 
-### Markdown
+#### 1. fork this repository and rename it
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 2. create a branch called `gh-pages`
 
-```markdown
-Syntax highlighted code block
+#### 3. edit the `_config.yml` file  
 
-# Header 1
-## Header 2
-### Header 3
+3.1. paste your `title` and `description`  
 
-- Bulleted
-- List
+3.2. give your site's url with protocol (http or https) to the variable `url`  
 
-1. Numbered
-2. List
+3.3. the part after your page domain, for example you have `http://himsel.me/onepage`, `baseurl: "/onepage"` is the right value
 
-**Bold** and _Italic_ and `Code` text
+3.4. paste **github** and **twitter** username to the following variables. Important: **without** @ prefix  
 
-[Link](url) and ![Image](src)
-```
+3.5. `accent` is the color code for the blog column
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+3.6. edit address and name, email too.
 
-### Jekyll Themes
+3.7. you are using google analytics? paste your ID to `g_analytics: ""`
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/charlle/charlle/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+3.8. edit html content language here: `isolang: en`, default is english
 
-### Support or Contact
+#### 4. start writing posts
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+4.1 posts are in the directory `_posts`  
+
+4.2 see here an introduction: http://jekyllrb.com/docs/posts/  
+
+# thank you
+share this project, give a star, contributions welcome  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
