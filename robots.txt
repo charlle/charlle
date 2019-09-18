@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://charlle.github.io/charlle/sitemap.xml

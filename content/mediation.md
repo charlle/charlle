@@ -1,0 +1,2 @@
+### Mediation
+As third party neutrals, the co-mediators guide the parties away from the conflict inherent in time-consuming litigation, and towards a mutually acceptable settlement so the parties can continue with their personal and professional productivity. The United Kingdom's unique model of mediation has achieved wide acclaim with a reported eighty-five percent (85%) success rate, reaching settlements that stick.
